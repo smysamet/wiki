@@ -1,6 +1,7 @@
 # Wiki 
 ## A simple Wikipedia clone.
 ### Made while studying Hardvard's CS50 Web Development Course
+#### Python, Django, HTML, CSS and Bootstrap were used in this project.
 #### Specification of the project
 * **Entry Page**: Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry, should render a page that displays the contents of that encyclopedia entry.
   * The view should get the content of the encyclopedia entry by calling the appropriate util function.
